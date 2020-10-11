@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="server_url" translatable="false">http://10.0.2.2:1337/</string>
+    <string name="name">Name</string>
+    <string name="phone">Telefon</string>
+    <string name="mail">Email</string>
+    <string name="password">Passwort</string>
+    <string name="logout">Abmelden</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="logoutQuestion">Willst du dich wirklich abmelden?</string>
+    <string name="profile_title">Neues Profilbild</string>
+    <string name="profile_question">Bild auswählen oder aufnehmen?</string>
+    <string name="makeImage">Aufnehmen</string>
+    <string name="chooseImage">Auswählen</string>
+    <string name="close_task_question">Gesuch auf erledigt stellen?</string>
+    <string name="want_to_help">Ich möchte helfen</string>
+    <string name="need_help">Ich brauche Hilfe</string>
+    <string name="login">Anmelden</string>
+    <string name="login_msg">Melde dich an</string>
+    <string name="login_question">Du hast noch keinen Account?</string>
+    <string name="register_request">Registriere dich</string>
+    <string name="register">Registrieren</string>
+    <string name="save">Speichern</string>
+    <string name="cancle">Abbrechen</string>
+    <string name="need_help_q1">Wobei brauchst du Hilfe?</string>
+    <string name="need_help_q2">Beschreibe kurz was du brauchst</string>
+    <string name="need_help_q3">Wann brauchst du Hilfe?</string>
+    <string name="your_profile">Dein Profil</string>
+    <string name="next">Weiter</string>
+    <string name="your_tasks">Meine Hilfsgesuche</string>
+    <string name="change_profile">Profil bearbeiten</string>
+    <string name="want_to_help_q1">Wobei möchtest du helfen?</string>
+    <string name="want_to_help_q2">In welchem Umkreis möchtest du helfen?</string>
+    <string name="min_dist">1km</string>
+    <string name="max_dist">10km</string>
+    <string name="dist">Distanz</string>
+    <string name="category_0">Einkaufen</string>
+    <string name="category_1">Haushalt</string>
+    <string name="category_2">Garten</string>
+    <string name="category_3">Sonstiges</string>
+    <string name="choose_pic">Wähle ein Bild aus</string>
+    <string name="invalid_mail">Email ungültig</string>
+    <string name="invalid_phone">Telefonnummer ungültig</string>
+    <string name="change_profile_ok">Daten erfolgreich geändert</string>
+    <string name="change_profile_error">Fehler beim ändern der Daten</string>
+    <string name="short_pw">Passwort zu kurz</string>
+    <string name="mail_or_pw_error">Passwort oder Email ungültig</string>
+    <string name="try_again">Bitte versuche es später nocheinmal</string>
+    <string name="login_fail">Anmelden nicht möglich</string>
+    <string name="send_task_ok">Anfrage erfolgreich gestellt</string>
+    <string name="error_occured">Leider ist ein Fehler aufgetreten</string>
+    <string name="need_gps">GPS ist notwendig</string>
+    <string name="duplicate_mail">Diese Email wird bereits genutzt</string>
+    <string name="register_ok">Erfolgreich registriert</string>
+    <string name="select_dist">Bitte wähle eine Distanz aus</string>
+    <string name="select_category">Bitte wähle eine Kategorie aus</string>
+    <string name="accept_task_question">Willst du diese Aufgabe übernehmen?</string>
+    <string name="open_count">Anzahl offener Hilfsgesuche:</string>
+    <string name="done_count">Anzahl erfolgreicher Hilfen:</string>
+    <string name="invalid_date">Ungültiges Datum</string>
+    <string name="accepted_task">Aufgabe angenommen</string>
+    <string name="dismiss_task">Aufgabe wirklich abbrechen?</string>
+    <string name="list_empty">Keine Einträge vorhanden</string>
+    <string-array name="categories">
+        <item>Einkaufen</item>
+        <item>Haushalt</item>
+        <item>Garten</item>
+        <item>Sonstiges</item>
+    </string-array>
+</resources>
+

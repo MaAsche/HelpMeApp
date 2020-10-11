@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <dimen name="logo_position_top">30dp</dimen>
+    <dimen name="logo_position_left">159dp</dimen>
+    <dimen name="margin_left_login_text">96dp</dimen>
+    <dimen name="margin_top_login_text">30dp</dimen>
+    <dimen name="profile_left">39dp</dimen>
+    <dimen name="profile_top">20dp</dimen>
+    <dimen name="change_profile_distance">30dp</dimen>
+
+
+</resources>

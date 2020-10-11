@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="server_url">http://10.0.2.2:1337/</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logoutQuestion">Do you really want to log out?</string>
+    <string name="profile_title">New profile picture</string>
+    <string name="profile_question">Do you want to pick or take a picture?</string>
+    <string name="makeImage">take</string>
+    <string name="chooseImage">pick</string>
+    <string name="close_task_question">Set task to done?</string>
+    <string name="want_to_help">I want to help</string>
+    <string name="need_help">I need help</string>
+    <string name="login">Login</string>
+    <string name="login_msg">Enter your Login data</string>
+    <string name="login_question">You dont have an account?</string>
+    <string name="register_request">Sign up now!</string>
+    <string name="register">Sign up</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancle</string>
+    <string name="need_help_q1">What you need help with?</string>
+    <string name="need_help_q2">Describe briefly what you need</string>
+    <string name="need_help_q3">When do you need help?</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="next">Continue</string>
+    <string name="your_tasks">My Tasks</string>
+    <string name="change_profile">Edit Profile</string>
+    <string name="want_to_help_q1">What do you want to help with?</string>
+    <string name="want_to_help_q2">How far are you willing to help?</string>
+    <string name="min_dist">1km</string>
+    <string name="max_dist">10km</string>
+    <string name="dist">Distance</string>
+    <string name="category_0">Shopping</string>
+    <string name="category_1">Household</string>
+    <string name="category_2">Garden</string>
+    <string name="category_3">Other</string>
+    <string name="choose_pic">Select an image</string>
+    <string name="invalid_mail">Email invalid</string>
+    <string name="invalid_phone">Phonenumber invalid</string>
+    <string name="change_profile_ok">Data successfully changed</string>
+    <string name="change_profile_error">Error when changing data</string>
+    <string name="short_pw">Password not long enough</string>
+    <string name="mail_or_pw_error">Password or Email invalid</string>
+    <string name="try_again">Please try again later</string>
+    <string name="login_fail">Login failed</string>
+    <string name="send_task_ok">Request successfully submitted</string>
+    <string name="error_occured">Unfortunately an error has occurred</string>
+    <string name="need_gps">GPS is necessary</string>
+    <string name="duplicate_mail">This email is already in use</string>
+    <string name="register_ok">Successfully registered</string>
+    <string name="select_dist">Please select a distance</string>
+    <string name="select_category">Please select a category</string>
+    <string name="accept_task_question">Do you want to take over this task?</string>
+    <string name="open_count">Number of open requests:</string>
+    <string name="done_count">Number of successful aids:</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="accepted_task">Task accepted</string>
+    <string name="dismiss_task">Do you want to cancel this task?</string>
+    <string name="list_empty">No entries</string>
+    <string-array name="categories">
+        <item>Shopping</item>
+        <item>Household</item>
+        <item>Garden</item>
+        <item>Other</item>
+    </string-array>
+</resources>
+
